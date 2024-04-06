@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: covoit
+type: duckdb
+options:
+  filename: covoit.db

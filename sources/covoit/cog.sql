@@ -1,0 +1,1 @@
+select * from cog where typecom in ('COM','ARM')

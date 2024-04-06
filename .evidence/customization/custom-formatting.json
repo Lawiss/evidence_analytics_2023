@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "customFormats": [
+    {
+      "formatTag": "test",
+      "formatCode": " #,##0.0\" min\"",
+      "valueType": "number"
+    }
+  ]
+}
